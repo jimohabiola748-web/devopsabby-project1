@@ -1,1 +1,1 @@
-Print("this is second assignment")
+print("this is second assignment")
